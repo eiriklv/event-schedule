@@ -6,7 +6,7 @@ Create time scheduled event callbacks
 
 #### Example use:
 ```js
-var eventSchedule = require('./event-schedule');
+var eventSchedule = require('event-schedule');
 
 eventSchedule.at('19:00:30', function(time) {
     // this will fire at 19:00:30 system time
