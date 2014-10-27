@@ -16,5 +16,20 @@
   "description": "Create time scheduled event callbacks",
   "main": "event-schedule.js",
   "author": "Eirik Vullum <evullum@gmail.com> (http://www.evconsult.no/)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eiriklv/event-schedule.git"
+  },
+  "keywords": [
+    "clock",
+    "schedule",
+    "event",
+    "timer",
+    "tick"
+  ],
+  "bugs": {
+    "url": "https://github.com/eiriklv/event-schedule/issues"
+  },
+  "homepage": "https://github.com/eiriklv/event-schedule"
 }
